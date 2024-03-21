@@ -1,2 +1,2 @@
-#Git
+# git
 Welcome to Capgemini
